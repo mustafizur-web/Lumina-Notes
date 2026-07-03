@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Notes",
+  "description": "Capture your brilliance. A gorgeous, modern notes app with categories, tags, checklist systems, and seamless transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
